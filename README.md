@@ -2,6 +2,10 @@
 
 This project is a responsive web page built using vanilla HTML, CSS, and JavaScript as part of the Gushwork Web Developer assignment.
 
+## 🔗 Live Demo
+
+https://gushwork-assignment-sand.vercel.app/
+
 ## 🚀 Features
 
 - Responsive design for desktop, tablet, and mobile devices
